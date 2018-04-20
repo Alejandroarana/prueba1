@@ -9,6 +9,7 @@ int main(int argc, char const *argv[]) {
     break;
     default:
     printf("opcion no valida");
+      printf("hola");
     break;
   }
 }
